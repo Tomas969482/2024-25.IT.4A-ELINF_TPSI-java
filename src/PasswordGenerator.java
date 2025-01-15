@@ -1,4 +1,3 @@
-import java.util.Random;
 
 // Un oggetto di questa classe rappresenta un generatore di password
 // casuali di una determinata lunghezza.
